@@ -9,7 +9,7 @@ pygame.init()
 
 # display setup and font parameters
 screen = pygame.display.set_mode((700, 500))
-pygame.display.set_caption("Button Latency Test")
+pygame.display.set_caption("Word Latency Test")
 font = pygame.font.SysFont("Times new Roman", 28)
 c_black = pygame.Color("black")
 c_green = pygame.Color("green")
